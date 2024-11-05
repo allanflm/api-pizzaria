@@ -1,1 +1,1 @@
-[{"id":1,"nome":"Strogonoff","preco":199.9},{"id":2,"nome":"Strogonoff","preco":44.44}]
+[{"id":1,"nome":"Strogonoff","preco":199.9,"Review":null},{"id":2,"nome":"Strogonoff","preco":44.44,"Review":[{"Rating":5,"Comment":"Melhor pizza!"},{"Rating":2,"Comment":"mais ou menos"}]}]
